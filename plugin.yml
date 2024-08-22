@@ -1,0 +1,8 @@
+name: 'StaffCore'
+description: "A bunch of tools to improve your staff's job."
+version: '1.0-dev'
+api: '2.0.0'
+author: 'xChillz'
+main: 'khronos\staff\StaffPlugin'
+prefix: 'STAFF'
+website: 'https://github.com/KhronosDevs/StaffCore'
