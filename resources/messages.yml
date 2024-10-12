@@ -1,1 +1,3 @@
 STAFF_PLUGIN_STARTED: 'Staff core started in {%0} seconds.'
+UNKNOWN_SENDER_TYPE: '&cYou must be either a player or run this command in the console.'
+RUN_THIS_COMMAND_IN_GAME: '&cYou must run this command in-game.'
